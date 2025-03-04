@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HelixToolkit" Version="2.26.0" />
+    <PackageReference Include="HelixToolkit.Wpf" Version="2.26.0" />
+    <PackageReference Include="HelixToolkit.Wpf.SharpDX" Version="2.26.0" />
+    <PackageReference Include="System.Drawing.Common" Version="9.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Intel.RealSense">
+      <HintPath>..\..\..\LIB\librealsense\build\Release\Intel.RealSense.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

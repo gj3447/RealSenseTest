@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QKC6oHscuZ8=",
+  "success": true,
+  "projectFilePath": "C:\\CD\\C#\\RealSenseTest\\WMITest\\WMITest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gj344\\.nuget\\packages\\system.codedom\\9.0.2\\system.codedom.9.0.2.nupkg.sha512",
+    "C:\\Users\\gj344\\.nuget\\packages\\system.management\\9.0.2\\system.management.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
